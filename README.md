@@ -1,0 +1,2 @@
+# springAnnotated
+Spring without xml
