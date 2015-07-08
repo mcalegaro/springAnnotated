@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+td {
+	text-align: right;
+	padding: 1px;
+}
+
+#divLogin {
+	margin: 20px;
+}
+
+#divRegister {
+	position: relative;
+	left: 400px;
+	top: -108px;
+}
