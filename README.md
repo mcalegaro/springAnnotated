@@ -1,3 +1,2 @@
 # springAnnotated
-Spring without xml
-jc3 = java config 3
+Spring without xml, only Annotations
